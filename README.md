@@ -2,7 +2,8 @@ preview
 <h1 align="center">Hi 👋, I'm Nguyen Huy Truong</h1>
 <h3 align="center">Java Engineer</h3>
 
-<h3 align="left">Connect with me by truongnh16072000@gmail.com</h3>
+<h3 align="left">Feel free to connect with me at truongnh16072000@gmail.com
+</h3>
 <p align="left">
 </p>
 
